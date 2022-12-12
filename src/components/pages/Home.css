@@ -1,0 +1,13 @@
+.Home {
+    background-color: #FFF9F0;
+    height: 100vh;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.Home h3 {
+    color: #695D2E;
+    font-weight: 600;
+    font-size: 32px;
+}
